@@ -14,7 +14,7 @@
 - [Enlace](https://gerardogg.itch.io/salvemos-la-utng2)
 
 ### Vídeo de demostración:
-- [Enlace](#)
+- [Enlace](https://drive.google.com/file/d/1zxA4YI5fWDiiktjXqL3Ymst6_z69IqEC/view?usp=drive_link)
 
 ## 📘 Descripción General  
 Este repositorio contiene los recursos, actividades, tutoriales y proyectos desarrollados durante la Unidad 2: Programación orientada a objetos para videojuegos.
